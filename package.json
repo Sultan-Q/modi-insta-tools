@@ -1,7 +1,7 @@
 {
-  "name": "rtrgnwrnsrnsrtsrnsrtn",
+  "name": "modi-insta-tools",
   "version": "1.8.11",
-  "description": "rtrgnwrnsrnsrtsrnsrtn",
+  "description": "modi-insta-tools",
   "main": "src/tools-for-instagram.js",
   "dependencies": {
     "@tensorflow/tfjs-node": "^1.7.4",

@@ -1,7 +1,7 @@
 {
-  "name": "tools-for-instagram",
+  "name": "rtrgnwrnsrnsrtsrnsrtn",
   "version": "1.8.11",
-  "description": "Tools for instagram",
+  "description": "rtrgnwrnsrnsrtsrnsrtn",
   "main": "src/tools-for-instagram.js",
   "dependencies": {
     "@tensorflow/tfjs-node": "^1.7.4",
@@ -24,35 +24,19 @@
     "worker-farm": "git+https://github.com/sebamarynissen/node-worker-farm.git#worker-threads"
   },
   "devDependencies": {},
-  "keywords": [
-    "bot",
-    "thelinkfy",
-    "instagram",
-    "instagram-lib",
-    "instagram-api",
-    "instagram-bot",
-    "instapy",
-    "instabot",
-    "jarvee",
-    "instagress",
-    "automation",
-    "ninjalitics",
-    "socialads",
-    "socialblade",
-    "api"
-  ],
+  "keywords": [],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "new": "node cli/new.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/linkfy/Tools-for-Instagram.git"
+    "url": "git+https://github.com/Sultan-Q/modi-insta-tools.git"
   },
   "author": "TheLinkfy",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/linkfy/Tools-for-Instagram/issues"
+    "url": "https://github.com/Sultan-Q/modi-insta-tools/issues"
   },
-  "homepage": "https://github.com/linkfy/Tools-for-Instagram#readme"
+  "homepage": "https://github.com/Sultan-Q/modi-insta-tools#readme"
 }
